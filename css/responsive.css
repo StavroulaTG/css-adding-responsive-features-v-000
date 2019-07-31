@@ -74,3 +74,9 @@
     width: auto;
   }
 }
+
+@media only screen and (max-width: 500px) {
+  #logo h2 {
+    visibility: hidden;
+  }
+}
